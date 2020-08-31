@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Shiftha - Dionel\\Documents\\Otros\\Dionel\\F\\2\\2doC\\Prog III\\AndroidISTIC2-2\\Istic-Android-ejercicios2-2\\ISTIC-Android2a-2c\\EjerClase2-2\\SQLite\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-small-v4\\values-small-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Shiftha - Dionel\\.gradle\\caches\\transforms-2\\files-2.1\\03d539eec737efd1161f3cd9b6792bd4\\material-1.2.0\\res\\values-small-v4\\values-small-v4.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,128,198,270",
+                        "endColumns": "72,69,71,69",
+                        "endOffsets": "123,193,265,335"
+                    }
+                }
+            ]
+        }
+    ]
+}
