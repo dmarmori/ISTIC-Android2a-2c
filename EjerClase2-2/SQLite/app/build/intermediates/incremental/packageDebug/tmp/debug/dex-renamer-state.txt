@@ -1,4 +1,4 @@
-#Sun Aug 30 22:56:05 ART 2020
+#Wed Sep 02 21:22:37 ART 2020
 base.0=C\:\\Users\\Shiftha - Dionel\\Documents\\Otros\\Dionel\\F\\2\\2doC\\Prog III\\AndroidISTIC2-2\\Istic-Android-ejercicios2-2\\ISTIC-Android2a-2c\\EjerClase2-2\\SQLite\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
 path.1=classes.dex
 renamed.1=classes2.dex

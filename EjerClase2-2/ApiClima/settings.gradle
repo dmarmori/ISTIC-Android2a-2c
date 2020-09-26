@@ -1,0 +1,2 @@
+rootProject.name='ApiClima'
+include ':app'
