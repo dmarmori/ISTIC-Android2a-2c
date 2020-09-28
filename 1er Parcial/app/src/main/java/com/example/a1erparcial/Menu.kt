@@ -40,14 +40,14 @@ class Menu : AppCompatActivity() {
 
         //Ir a listado de clima
         btnClima.setOnClickListener{
-            val intent = Intent(this, VistaListado::class.java)
+            val intent = Intent(this, VistaListadoClima::class.java)
             intent.putExtra("clave","clima")
             startActivity(intent)
         }
 
         //Ir a listado de peliculas
         btnPeliculas.setOnClickListener{
-            val intent = Intent(this, VistaListado::class.java)
+            val intent = Intent(this, VistaListadoPelis::class.java)
             intent.putExtra("clave","peli")
             startActivity(intent)
         }

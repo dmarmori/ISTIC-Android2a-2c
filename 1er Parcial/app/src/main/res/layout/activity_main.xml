@@ -14,6 +14,7 @@
         android:layout_marginTop="24dp"
         android:layout_marginEnd="16dp"
         android:text="1er Parcial Programacion III"
+        android:textColor="#283593"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -28,6 +29,7 @@
         android:layout_marginTop="24dp"
         android:layout_marginEnd="16dp"
         android:text="ISTIC"
+        android:textColor="#283593"
         android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
@@ -43,6 +45,7 @@
         android:layout_marginEnd="187dp"
         android:text="Profesor: Octavio Villegas"
         android:textSize="18sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView3" />
@@ -56,6 +59,7 @@
         android:layout_marginEnd="202dp"
         android:text="Alumno: Dionel Marmori"
         android:textSize="18sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView4" />
@@ -69,6 +73,7 @@
         android:layout_marginEnd="242dp"
         android:text="Fecha: 30/09/2020"
         android:textSize="18sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView5" />
@@ -81,8 +86,8 @@
         android:layout_marginTop="100dp"
         android:layout_marginEnd="16dp"
         android:ems="10"
+        android:hint="Usuario"
         android:inputType="textPersonName"
-        android:text="Name"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/textView6" />
@@ -95,6 +100,7 @@
         android:layout_marginTop="24dp"
         android:layout_marginEnd="16dp"
         android:ems="10"
+        android:hint="Clave"
         android:inputType="textPassword"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

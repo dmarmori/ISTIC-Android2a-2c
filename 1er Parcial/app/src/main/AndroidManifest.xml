@@ -12,7 +12,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".VistaListado"></activity>
+        <activity android:name=".PelisDetalle"></activity>
+        <activity android:name=".VistaListadoPelis" />
+        <activity android:name=".CiudadDetalle" />
+        <activity android:name=".VistaListadoClima" />
+        <activity android:name=".PaisDetalle" />
+        <activity android:name=".VistaListado" />
         <activity android:name=".Menu" />
         <activity android:name=".MainActivity">
             <intent-filter>
