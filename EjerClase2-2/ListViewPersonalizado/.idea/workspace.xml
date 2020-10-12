@@ -7,23 +7,60 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98c5fc08-1abf-487b-9298-f37a97175a32" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../1er Parcial/app/src/main/java/com/example/a1erparcial/PaisDetalle.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../1er Parcial/app/src/main/res/layout/activity_pais_detalle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1er Parcial/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1er Parcial/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1er Parcial/app/src/main/java/com/example/a1erparcial/Pais.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1er Parcial/app/src/main/java/com/example/a1erparcial/Pais.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../1er Parcial/app/src/main/java/com/example/a1erparcial/VistaListado.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../../1er Parcial/app/src/main/java/com/example/a1erparcial/VistaListado.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/androidTest/java/com/example/milsdesign/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/java/com/example/milsdesign/Cliente.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/java/com/example/milsdesign/ClienteAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/java/com/example/milsdesign/Main2Activity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/java/com/example/milsdesign/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/java/com/example/milsdesign/Producto.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/java/com/example/milsdesign/ProductoActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/java/com/example/milsdesign/ProductoAdapter.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/layout/activity_producto.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/layout/item_cliente.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/layout/item_producto.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/app/src/test/java/com/example/milsdesign/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../MilsDesign/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLite/.gradle/5.6.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite/.gradle/5.6.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLite/.gradle/5.6.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite/.gradle/5.6.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLite/.gradle/5.6.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite/.gradle/5.6.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLite/.gradle/5.6.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite/.gradle/5.6.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLite/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLite/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLite/.idea/libraries/Gradle__org_jetbrains_anko_commons_base_0_10_8_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite/.idea/libraries/Gradle__org_jetbrains_anko_commons_base_0_10_8_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLite/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite/app/app.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLite/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../SQLite/app/src/main/java/com/example/listviewpersonalizado/ProductosAdapter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../SQLite/app/src/main/java/com/example/listviewpersonalizado/ProductosAdapter.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +68,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="ZY225FS2PK" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_29" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -65,7 +102,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MilsDesign" />
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
