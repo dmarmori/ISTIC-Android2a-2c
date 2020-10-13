@@ -30,5 +30,10 @@ class MainActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        floatingActionButton.setOnClickListener{
+            val intent = Intent(this, AgregarCliente::class.java)
+            startActivity(intent)
+        }
+
     }
 }
