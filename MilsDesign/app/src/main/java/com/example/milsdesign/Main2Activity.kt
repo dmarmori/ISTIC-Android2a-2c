@@ -28,6 +28,7 @@ class Main2Activity : AppCompatActivity() {
             cliente = it
 
             nombreClienteLista2.text = cliente.Nombre
+
         })
 
 
@@ -45,6 +46,12 @@ class Main2Activity : AppCompatActivity() {
             intent.putExtra("producto", listaProducto[position])
             startActivity(intent)
         }*/
+
+        floatingActionButton2.setOnClickListener{
+            val intent = Intent(this, AgregarProducto::class.java)
+            intent.putExtra("id", idCliente)
+            startActivity(intent)
+        }
 
     }
 }
