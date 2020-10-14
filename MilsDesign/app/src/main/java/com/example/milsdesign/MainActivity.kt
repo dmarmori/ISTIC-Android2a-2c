@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
 
         lista.setOnItemClickListener { parent, view, position, id ->
             val intent = Intent(this, Main2Activity::class.java)
-            intent.putExtra("nombre", listaClientes[position])
+            intent.putExtra("id", listaClientes[position].idCliente)
             startActivity(intent)
         }
 
